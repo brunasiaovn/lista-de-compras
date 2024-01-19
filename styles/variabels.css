@@ -2,10 +2,10 @@
 @import "main.css";
 
 :root{
-    --white:#fff;
+    --white:rgb(188, 175, 175)0a0;
     --gray-100:#e5e5e5;
     --gray-300:#bdbdbd;
-    --gray-500:#333333;
-    --orange-300:#f6ad55;
-    --orange-500:#ed8936;
+    --gray-500:rgba(9, 8, 8, 0.961);
+    --orange-300:#080808;
+    --orange-500:#8d5d5d;
 }
